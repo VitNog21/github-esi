@@ -1,4 +1,4 @@
-def sub(x, y):
+def sub(y, y):
       return x - y
 
 def sum(x, y):
